@@ -1,6 +1,3 @@
-// dev--3kekc2y.us.auth0.com - domain
-// LBs1AfKC1Ikx7dLewb0lT3ds0p4hntiU - client-id
-//a2GOatXLAH6mI9eFYnBm151rAsrrcV8wBiBA4ZkhqQXtOIH-1re2S4tqucKtPH0G - client secret
 const express = require("express")
 const app = express()
 const dotenv = require("dotenv")
